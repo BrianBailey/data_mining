@@ -1,0 +1,72 @@
+  {
+"success": true,
+"anchor": 1906203362,
+"postings": [
+{
+"external_url": "http://newyork.craigslist.org/brk/abo/4924767414.html",
+"heading": "LARGE 2 BED WITH BACKYARD - ALL RENOVATED",
+"body": "\nDESCRIPTION\n2 Bed / 1 Bath in Bed-Stuy, Brooklyn. Pets are allowed.\nModern kitchen - Great size living room - 2 good size bedrooms on opposite ends - Direct access to backyard We can help you find roommates.\nAMENITIES\n High Ceilings\n Hardwood floors\n Exposed brick\n Outdoor Space\n Shared backyard\n Eat In Kitchen\n Stainless Steel Appliances\n Dishwasher\n Stone countertops\nTRANSIT\nG train\nFLUSHING\nCall Joseph\n ",
+"timestamp": 1425942639,
+"price": 2300,
+"images": [
+{
+"full": "http://images.craigslist.org/00M0M_lsZoO0Y58Ne_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00A0A_l6RNa9JvMmU_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00T0T_kdGxDZQxroD_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00S0S_gTtUA2VcnWx_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00505_aRIh1JDdJFB_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00A0A_fe5Wsu7ci8v_600x450.jpg"
+},
+{
+"full": "http://images.craigslist.org/00000_lMEZ1VPgSmL_600x450.jpg"
+}
+],
+"annotations": {
+"source_continent": "USA",
+"apartment": "YES",
+"source_cat": "hhh",
+"source_neighborhood": "Bed Stuy / Williamsburg / Clinton Hill",
+"source_state": "New York",
+"source_loc": "newyork",
+"source_subloc": "brk",
+"html_data_size": "18015",
+"source_map_google": "https://maps.google.com/?q=loc%3A+Nostrand+Ave+at+Flushing+Ave+Brooklyn+NY+US",
+"available": "mar 09",
+"source_map_yahoo": "http://maps.yahoo.com/maps_result?addr=Nostrand+Ave+at+Flushing+Ave&amp;csz=Brooklyn+NY&amp;country=US",
+"cats": "YES",
+"latlong_source": "In Posting",
+"source_heading": "LARGE 2 BED WITH BACKYARD - ALL RENOVATED",
+"proxy_ip": "104.131.118.71:22225",
+"phone": "6464704195",
+"source_account": "hvzp2-4924767414@hous.craigslist.org",
+"source_subcat": "apa|abo",
+"dogs": "YES",
+"bedrooms": "2br"
+},
+"location": {
+"country": "USA",
+"state": "USA-NY",
+"metro": "USA-NYM",
+"region": "USA-NYM-BRO",
+"county": "USA-NY-KIN",
+"city": "USA-NYM-BRL",
+"locality": "USA-NYM-WIU",
+"zipcode": "USA-11205",
+"lat": "40.699405",
+"long": "-73.95337",
+"accuracy": 8,
+"geolocation_status": 3
+}
+},
+{
+"external_url": "http://newyork.c

@@ -1,0 +1,73 @@
+id,name,ticker_symbol,sector,city,state
+299,Microchip Technology,MCHP,Information Technology,Chandler,Arizona
+5,Adobe Systems Inc,ADBE,Information Technology,San Jose,California
+6,Advanced Micro Devices,AMD,Information Technology,Sunnyvale,California
+10,Agilent Technologies Inc,A,Information Technology,Santa Clara,California
+19,Altera Corp,ALTR,Information Technology,San Jose,California
+37,Apple Inc.,AAPL,Information Technology,Cupertino,California
+38,Applied Materials Inc,AMAT,Information Technology,Santa Clara,California
+42,Autodesk Inc,ADSK,Information Technology,San Rafael,California
+70,Broadcom Corporation,BRCM,Information Technology,Irvine,California
+98,Cisco Systems,CSCO,Information Technology,San Jose,California
+159,Electronic Arts,ERTS,Information Technology,Redwood City,California
+207,Google Inc.,GOOG,Information Technology,Mountain View,California
+220,Hewlett-Packard,HPQ,Information Technology,Palo Alto,California
+231,Intel Corp.,INTC,Information Technology,Santa Clara,California
+238,Intuit Inc.,INTU,Information Technology,Mountain View,California
+246,JDS Uniphase Corp.,JDSU,Information Technology,Milpitas,California
+251,Juniper Networks,JNPR,Information Technology,Sunnyvale,California
+256,KLA-Tencor Corp.,KLAC,Information Technology,Milpitas,California
+276,LSI Corporation,LSI,Information Technology,Milpitas,California
+271,Linear Technology Corp.,LLTC,Information Technology,Milpitas,California
+316,NetApp,NTAP,Information Technology,Sunnyvale,California
+317,NetFlix Inc.,NFLX,Information Technology,Los Gatos,California
+334,Novellus Systems,NVLS,Information Technology,San Jose,California
+337,Nvidia Corporation,NVDA,Information Technology,Santa Clara,California
+343,Oracle Corp.,ORCL,Information Technology,Redwood Shores,California
+382,QUALCOMM Inc.,QCOM,Information Technology,San Diego,California
+400,Salesforce.com,CRM,Information Technology,San Francisco,California
+401,SanDisk Corporation,SNDK,Information Technology,Milpitas,California
+431,Symantec Corp.,SYMC,Information Technology,Mountain View,California
+471,Visa Inc.,V,Information Technology,San Francisco,California
+483,Western Digital,WDC,Information Technology,Irvine,California
+495,Xilinx Inc,XLNX,Information Technology,San Jose,California
+497,Yahoo Inc.,YHOO,Information Technology,Sunnyvale,California
+154,eBay Inc.,EBAY,Information Technology,San Jose,California
+484,Western Union Co,WU,Information Technology,Englewood,Colorado
+494,Xerox Corp.,XRX,Information Technology,Norwalk,Connecticut
+100,Citrix Systems,CTXS,Information Technology,Fort Lauderdale,Florida
+178,Fidelity National Information Services,FIS,Information Technology,Jacksonville,Florida
+212,Harris Corporation,HRS,Information Technology,Melbourne,Florida
+243,Jabil Circuit,JBL,Information Technology,St. Petersburg,Florida
+453,Total System Services,TSS,Information Technology,Columbus,Georgia
+300,Micron Technology,MU,Information Technology,Boise,Idaho
+302,Molex Inc.,MOLX,Information Technology,Lisle,Illinois
+309,Motorola Mobility Holdings Inc.,MMI,Information Technology,Libertyville,Illinois
+310,Motorola Solutions Inc.,MSI,Information Technology,Schaumburg,Illinois
+437,Tellabs Inc.,TLAB,Information Technology,Naperville,Illinois
+266,Lexmark Int'l Inc,LXK,Information Technology,Lexington,Kentucky
+14,Akamai Technologies Inc,AKAM,Information Technology,Cambridge,Massachusetts
+32,Analog Devices Inc,ADI,Information Technology,Norwood,Massachusetts
+160,EMC Corp.,EMC,Information Technology,Hopkinton,Massachusetts
+440,Teradyne Inc.,TER,Information Technology,North Reading,Massachusetts
+113,Compuware Corp.,CPWR,Information Technology,Detroit,Michigan
+295,MEMC Electronic Materials,WFR,Information Technology,St. Peters,Missouri
+43,Automatic Data Processing,ADP,Information Technology,Roseland,New Jersey
+108,Cognizant Technology Solutions,CTSH,Information Technology,Teaneck,New Jersey
+73,CA, Inc.,CA,Information Technology,Islandia,New York
+233,International Bus. Machines,IBM,Information Technology,Armonk,New York
+285,Mastercard Inc.,MA,Information Technology,Harrison,New York
+350,Paychex Inc.,PAYX,Information Technology,Penfield,New York
+387,Red Hat Inc.,RHT,Information Technology,Raleigh,North Carolina
+439,Teradata Corp.,TDC,Information Technology,Miamisburg,Ohio
+184,FLIR Systems,FLIR,Information Technology,Wilsonville,Oregon
+435,TE Connectivity Ltd.,TEL,Information Technology,Schaffhausen,Switzerland
+65,BMC Software,BMC,Information Technology,Houston,Texas
+133,Dell Inc.,DELL,Information Technology,Round Rock,Texas
+442,Texas Instruments,TXN,Information Technology,Dallas,Texas
+112,Computer Sciences Corp.,CSC,Information Technology,Falls Church,Virginia
+399,SAIC,SAI,Information Technology,McLean,Virginia
+468,Verisign Inc.,VRSN,Information Technology,Dulles,Virginia
+173,F5 Networks,FFIV,Information Technology,Seattle,Washington
+301,Microsoft Corp.,MSFT,Information Technology,Redmond,Washington
+183,Fiserv Inc,FISV,Information Technology,Brookfield,Wisconsin
